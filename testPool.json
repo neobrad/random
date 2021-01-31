@@ -1,6 +1,1 @@
-{
-"name": "BradsPool",
-"description": "The pool that tests all the pools",
-"ticker": "LVLC",
-"homepage": "https://teststakepool.com"
-}
+{"name":"LVLC","ticker":"LVLC","description":"Lovelace pool","homepage":"https://teststakepool.com","nonce":"1612126282"}
